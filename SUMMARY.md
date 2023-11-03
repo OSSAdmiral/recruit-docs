@@ -9,6 +9,9 @@
   * [Using Git Clone](getting-started/installation/using-git-clone.md)
   * [Using Docker](getting-started/installation/using-docker.md)
 * [Environment Variables](getting-started/environment-variables.md)
+* [Database](getting-started/database/README.md)
+  * [Migration](getting-started/database/migration.md)
+  * [Seed](getting-started/database/seed.md)
 
 ## 🔐 Security
 
