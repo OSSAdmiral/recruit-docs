@@ -10,7 +10,7 @@ description: A full list of implemented features and those that are planned.
 
 Streamline your hiring process. Our ATS simplifies candidate management and keeps you in control.
 
-#### :newspaper2:**Customized Job Postings**
+#### :newspaper2: **Customized Job Postings**
 
 Stand out in the crowd. Create job listings that reflect your company's unique culture and values.
 
