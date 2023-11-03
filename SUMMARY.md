@@ -8,11 +8,17 @@
 * [Installation](getting-started/installation/README.md)
   * [Using Git Clone](getting-started/installation/using-git-clone.md)
   * [Using Docker](getting-started/installation/using-docker.md)
+* [Environment Variables](getting-started/environment-variables.md)
 
 ## 🔐 Security
 
 * [Authentication](security/authentication.md)
 * [Authorization](security/authorization.md)
+
+## 👀 Others
+
+* [Server Sendmail](others/server-sendmail.md)
+* [Form Captcha](others/form-captcha.md)
 
 ## ⚓ Links
 
