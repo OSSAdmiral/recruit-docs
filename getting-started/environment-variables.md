@@ -25,9 +25,10 @@ MAIL_FROM_NAME="${APP_NAME}"
 APP_DEBUG=true
 ```
 
-3. Change your `APP_NAME` and `APP_URL` based on your current domains.
-4. Change `APP_ENV` to `Production`&#x20;
-5. Update your database connection credentials
+3. Change your `APP_NAME` on your desire name or to your company name.
+4. Change your `APP_URL` based on your current domains.
+5. Change `APP_ENV` to `Production`&#x20;
+6. Update your database connection credentials
 
 ```git
 DB_CONNECTION=mysql
