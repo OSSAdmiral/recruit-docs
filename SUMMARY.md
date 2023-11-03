@@ -18,3 +18,4 @@
 
 * [Source Code](https://github.com/OSSAdmiral/Recruit)
 * [Version Release](https://github.com/OSSAdmiral/Recruit/releases)
+* [Update Docs](https://github.com/OSSAdmiral/recruit-docs)
