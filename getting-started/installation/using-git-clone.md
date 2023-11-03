@@ -40,7 +40,19 @@ $ php artisan storage:link
 $ php artisan config:cache
 ```
 
-5. Setup file and folder permissions
+5. create a copy of the `.env.example`
+
+```bash
+$ cp .env.example .env
+```
+
+6. Generate App Key by running the command below
+
+```bash
+$ php artisan generate:key
+```
+
+7. Setup file and folder permissions
 
 ```bash
 $ sudo chown -R www-data:www-data /var/www/Recruit
