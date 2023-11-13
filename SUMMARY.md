@@ -5,6 +5,7 @@
 
 ## 🚀 GETTING STARTED
 
+* [Server Requirements](getting-started/server-requirements.md)
 * [Installation](getting-started/installation/README.md)
   * [Using Git Clone](getting-started/installation/using-git-clone.md)
   * [Using Docker](getting-started/installation/using-docker.md)
